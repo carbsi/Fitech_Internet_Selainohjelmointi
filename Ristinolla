@@ -1,0 +1,21 @@
+<h1>Ristinolla</h1>
+
+<body>
+    <table border="1">
+        <tr>
+            <td>X</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>X</td>
+            <td>O</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>O</td>
+        </tr>
+    </table>
+</body>
